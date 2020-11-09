@@ -1,4 +1,4 @@
-# Project 2
+# Flack - Flask based Chat Application
 
 Web Programming with Python and JavaScript
 
